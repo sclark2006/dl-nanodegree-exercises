@@ -1,5 +1,4 @@
 .ipynb_checkpoints
-*.pt
 data
 __pycache__
 /project-dog-classification/dogImages
