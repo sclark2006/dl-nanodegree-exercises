@@ -1,5 +1,6 @@
 .ipynb_checkpoints
 data
+*.pt
 __pycache__
 /project-dog-classification/dogImages
 /project-dog-classification/lfw
