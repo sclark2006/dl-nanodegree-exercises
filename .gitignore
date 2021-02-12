@@ -4,3 +4,5 @@ __pycache__
 /project-dog-classification/dogImages
 /project-dog-classification/lfw
 raw
+/project-face-generation/processed_celeba_small
+/project-face-generation/processed-celeba-small.zip
