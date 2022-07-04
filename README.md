@@ -40,7 +40,7 @@ I'm using the Udacity Git Commit Message Style Guide, as described here https://
 
 ### Deploying a Model (with AWS SageMaker)
 
-* [All exercise and project notebooks](https://github.com/udacity/sagemaker-deployment) for the lessons on model deployment can be found in the linked, Github repo. Learn to deploy pre-trained models using AWS SageMaker.
+* [All exercise and project notebooks](https://github.com/sclark2006/sagemaker-deployment) for the lessons on model deployment can be found in the linked, Github repo. Learn to deploy pre-trained models using AWS SageMaker.
 
 ### Projects
 
