@@ -26,17 +26,17 @@ I'm using the Udacity Git Commit Message Style Guide, as described here https://
 
 ### Recurrent Neural Networks
 
-* [Intro to Recurrent Networks (Time series & Character-level RNN)](https://github.com/udacity/deep-learning-v2-pytorch/tree/master/recurrent-neural-networks): Recurrent neural networks are able to use information about the sequence of data, such as the sequence of characters in text; learn how to implement these in PyTorch for a variety of tasks.
-* [Embeddings (Word2Vec)](https://github.com/udacity/deep-learning-v2-pytorch/tree/master/word2vec-embeddings): Implement the Word2Vec model to find semantic representations of words for use in natural language processing.
-* [Sentiment Analysis RNN](https://github.com/udacity/deep-learning-v2-pytorch/tree/master/sentiment-rnn): Implement a recurrent neural network that can predict if the text of a moview review is positive or negative.
-* [Attention](https://github.com/udacity/deep-learning-v2-pytorch/tree/master/attention): Implement attention and apply it to annotation vectors.
+* [Intro to Recurrent Networks (Time series & Character-level RNN)](https://github.com/sclark2006/dl-nanodegree-exercises/tree/master/recurrent-neural-networks): Recurrent neural networks are able to use information about the sequence of data, such as the sequence of characters in text; learn how to implement these in PyTorch for a variety of tasks.
+* [Embeddings (Word2Vec)](https://github.com/sclark2006/dl-nanodegree-exercises/tree/master/word2vec-embeddings): Implement the Word2Vec model to find semantic representations of words for use in natural language processing.
+* [Sentiment Analysis RNN](https://github.com/sclark2006/dl-nanodegree-exercises/tree/master/sentiment-rnn): Implement a recurrent neural network that can predict if the text of a moview review is positive or negative.
+* [Attention](https://github.com/sclark2006/dl-nanodegree-exercises/tree/master/attention): Implement attention and apply it to annotation vectors.
 
 ### Generative Adversarial Networks
 
-* [Generative Adversarial Network on MNIST](https://github.com/udacity/deep-learning-v2-pytorch/tree/master/gan-mnist): Train a simple generative adversarial network on the MNIST dataset.
-* [Batch Normalization](https://github.com/udacity/deep-learning-v2-pytorch/tree/master/batch-norm): Learn how to improve training rates and network stability with batch normalizations.
-* [Deep Convolutional GAN (DCGAN)](https://github.com/udacity/deep-learning-v2-pytorch/tree/master/dcgan-svhn): Implement a DCGAN to generate new images based on the Street View House Numbers (SVHN) dataset.
-* [CycleGAN](https://github.com/udacity/deep-learning-v2-pytorch/tree/master/cycle-gan): Implement a CycleGAN that is designed to learn from unpaired and unlabeled data; use trained generators to transform images from summer to winter and vice versa.
+* [Generative Adversarial Network on MNIST](https://github.com/sclark2006/dl-nanodegree-exercises/tree/master/gan-mnist): Train a simple generative adversarial network on the MNIST dataset.
+* [Batch Normalization](https://github.com/sclark2006/dl-nanodegree-exercises/tree/master/batch-norm): Learn how to improve training rates and network stability with batch normalizations.
+* [Deep Convolutional GAN (DCGAN)](https://github.com/sclark2006/dl-nanodegree-exercises/tree/master/dcgan-svhn): Implement a DCGAN to generate new images based on the Street View House Numbers (SVHN) dataset.
+* [CycleGAN](https://github.com/sclark2006/dl-nanodegree-exercises/tree/master/cycle-gan): Implement a CycleGAN that is designed to learn from unpaired and unlabeled data; use trained generators to transform images from summer to winter and vice versa.
 
 ### Deploying a Model (with AWS SageMaker)
 
@@ -44,15 +44,15 @@ I'm using the Udacity Git Commit Message Style Guide, as described here https://
 
 ### Projects
 
-* [Predicting Bike-Sharing Patterns](https://github.com/udacity/deep-learning-v2-pytorch/tree/master/project-bikesharing): Implement a neural network in NumPy to predict bike rentals.
-* [Dog Breed Classifier](https://github.com/udacity/deep-learning-v2-pytorch/tree/master/project-dog-classification): Build a convolutional neural network with PyTorch to classify any image (even an image of a face) as a specific dog breed.
-* [TV Script Generation](https://github.com/udacity/deep-learning-v2-pytorch/tree/master/project-tv-script-generation): Train a recurrent neural network to generate scripts in the style of dialogue from Seinfeld.
-* [Face Generation](https://github.com/udacity/deep-learning-v2-pytorch/tree/master/project-face-generation): Use a DCGAN on the CelebA dataset to generate images of new and realistic human faces.
+* [Predicting Bike-Sharing Patterns](https://github.com/sclark2006/dl-nanodegree-exercises/tree/master/project-bikesharing): Implement a neural network in NumPy to predict bike rentals.
+* [Dog Breed Classifier](https://github.com/sclark2006/dl-nanodegree-exercises/tree/master/project-dog-classification): Build a convolutional neural network with PyTorch to classify any image (even an image of a face) as a specific dog breed.
+* [TV Script Generation](https://github.com/sclark2006/dl-nanodegree-exercises/tree/master/project-tv-script-generation): Train a recurrent neural network to generate scripts in the style of dialogue from Seinfeld.
+* [Face Generation](https://github.com/sclark2006/dl-nanodegree-exercises/tree/master/project-face-generation): Use a DCGAN on the CelebA dataset to generate images of new and realistic human faces.
 
 ### Elective Material
 
-* [Intro to TensorFlow](https://github.com/udacity/deep-learning-v2-pytorch/tree/master/tensorflow/intro-to-tensorflow): Starting building neural networks with TensorFlow.
-* [Keras](https://github.com/udacity/deep-learning-v2-pytorch/tree/master/keras): Learn to build neural networks and convolutional neural networks with Keras.
+* [Intro to TensorFlow](https://github.com/sclark2006/dl-nanodegree-exercises/tree/master/tensorflow/intro-to-tensorflow): Starting building neural networks with TensorFlow.
+* [Keras](https://github.com/sclark2006/dl-nanodegree-exercises/tree/master/keras): Learn to build neural networks and convolutional neural networks with Keras.
 
 ---
 
